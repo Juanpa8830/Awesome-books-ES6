@@ -7,7 +7,6 @@ const collection = new Library();
 const update = new Update();
 const refresh = new Refresh();
 
-
 collection.loadContent();
 const parentlist = document.getElementById('bookcard');
 update.updatelist(collection.getData(), parentlist);
