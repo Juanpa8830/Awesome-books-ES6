@@ -109,7 +109,7 @@ To get a local copy up and running, follow these steps:
 
 👤 **Juan Pablo Guerrero Rios**
 
-- GitHub: [@PedroH-Neves](https://github.com/Juanpa8830)
+- GitHub: [@Juanpa8830](https://github.com/Juanpa8830)
 - Twitter: [@juanPa8830](https://https://twitter.com/JuanPa8830)
 - LinkedIn: [Juan Pablo Guerrero](https://www.linkedin.com/in/juanguerrerorios)
 
