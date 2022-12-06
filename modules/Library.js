@@ -1,16 +1,21 @@
 export default class Library {
+  constructor(){
+    this.library = [];
+  }
+  
+  addBook(book) {
+    this.library.push(book);
+    localStorage.setItem('Books', JSON.stringify(this.library));
+  }
+  
   loadContent() {
-    const content = JSON.parse(localStorage.getItem('Books'));
+    
+    const content = localStorage.getItem("book")? JSON.parse(localStorage.getItem('Books')): null;
     if (content === 0 || content === null) {
       localStorage.setItem('Books', JSON.stringify(this.library));
     } else {
       this.library = content;
     }
-  }
-
-  addBook(book) {
-    this.library.push(book);
-    localStorage.setItem('Books', JSON.stringify(this.library));
   }
 
   removeBook(element) {
