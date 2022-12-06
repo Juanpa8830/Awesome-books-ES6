@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Awesome books] <a name="about-project"></a>
 
-**[Awesome books]** is a project tht was built with HTML and JavaScript technologies. It has only one section where I want to show an application that allow users to create their own library. The will be able to add books and remove them and data will be stored at the local Storage.
+**[Awesome books]** is a  project tht was built with HTML and JavaScript technologies. It has only one section where I want to show an application that allow users to create their own library. The will be able to add books and remove them and data will be stored at the local Storage.
 
 ## 🛠 Built With <a name="built-with"></a>
 
