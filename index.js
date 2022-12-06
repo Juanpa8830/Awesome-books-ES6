@@ -1,7 +1,7 @@
 import Library from './modules/Library.js';
 import Refresh from './modules/Refresh.js';
 import Update from './modules/Update.js';
-import { DateTime } from './node_modules/luxon/build/es6/luxon.js';
+import { DateTime } from './modules/luxon/build/es6/luxon.js.';
 
 const collection = new Library();
 const update = new Update();
